@@ -1,0 +1,126 @@
+/* Estilo para o formulário */
+fieldset {
+    font-weight: normal;
+    align-content: center;
+    width: 100%;
+   
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+legend {
+    margin: 1%;
+    padding: 1%;
+}
+
+span {
+    margin: 1%;
+    padding: 1%;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 1%;
+    padding: 1%;
+}
+
+input,
+select {
+
+    margin-bottom: 3%;
+    font-size: 10px;
+}
+
+
+
+
+.sub-container {
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+input[type="submit"] {
+    font-family: 'Amatic SC', sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+
+    background-color: rgba(51, 50, 50, 0.39);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 2%;
+    margin: 2%;
+}
+
+/* Estilo para os checkboxes e rádio buttons */
+input[type="checkbox"],
+input[type="radio"] {
+    width: auto;
+    margin-right: 5px;
+}
+
+
+label {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    border: 2px solid #fff;
+}
+
+
+
+p {
+    text-align: center;
+    margin: 2%;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.container-ancor-medias {
+    list-style-type: none;
+    
+    margin: 0 auto;
+    
+}
+
+.container-lis-item {
+
+    float: left;
+    
+    align-items: center;
+    padding-left: 10px;
+}
+
+.ancor-medias {
+    display: block;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    padding-left: 5%;
+    margin: 0;
+}
+
+.main-login{
+    background-color: rgba(51, 50, 50, 0.39);
+}
+
+.main-login .btn-acessar{
+    width: 100px;
+    height: 10px;
+    padding-top: 3px;
+}
+
+.main-cadastro{
+    background-color: rgba(51, 50, 50, 0.39);
+}

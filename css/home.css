@@ -1,0 +1,47 @@
+/*
+               INDEX - HOME     
+
+CSS do TITULO - SUB TITULO - PARAGRAFO - LOGO - INDEX  
+
+*/
+
+#img_logo {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 150px;
+    padding-bottom: 25px;
+ }
+ 
+ .title {
+    font-size: 50px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-weight: normal;
+ }
+ 
+ .sub-title {
+    font-size: 35px;
+    padding-bottom: 5%;
+    font-weight: normal;
+ }
+ 
+ article {
+    padding-top: 10%;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 1%;
+    margin: 1% 1%;
+ }
+ 
+ .title-paragraf-01 {
+    margin: 5px;
+    padding: 5px;
+ 
+ }
+ 
+ .title-paragraf-02 {
+    margin: 5px;
+    padding: 5px;
+ }

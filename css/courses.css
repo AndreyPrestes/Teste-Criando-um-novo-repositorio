@@ -1,0 +1,90 @@
+.title {
+    font-size: 30px;
+    padding: 5%;
+    margin: 5% 5%;
+    text-align: center;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+.sub-title {
+    font-size: 25px;
+    padding: 5%;
+    margin: 5% 5%;
+    text-align: center;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+
+.img-courses {
+    width: 30%;
+    padding: 1%;
+    margin: 1% 1%;
+    border: solid 1px #fff;
+}
+
+.button {
+    width: 50%;
+    background-color: rgba(51, 50, 50, 0.39);
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Amatic SC', sans-serif;
+    font: 20px;
+    padding: 2% 3%;
+    text-decoration: none;
+
+}
+
+dl {
+    background-color: rgba(0, 0, 0, 0.39);
+    margin: 5% 5%;
+    padding: 5%;
+}
+
+dt {
+
+    padding: 2%;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+dd {
+    margin: 2%;
+    /* display: inline-block; */
+    margin-left: 0;
+}
+
+
+.title-table {
+    font-size: 20px;
+    padding: 5%;
+    margin: 5% 5%;
+    text-align: center;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.39);
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    /*  é usado para garantir que as bordas das células da tabela sejam combinadas. */
+}
+
+th,
+td {
+    background-color: rgba(0, 0, 0, 0.39);
+    border: 2px solid #fff;
+    padding: 8px;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* Distribui a largura igualmente entre as colunas */
+th,
+td {
+    width: 50%;
+}

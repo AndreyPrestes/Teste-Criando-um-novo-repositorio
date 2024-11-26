@@ -1,0 +1,23 @@
+.work-img {
+    width: 90%;
+    padding: 1%;
+    margin: 1% 1%;
+    border: solid 1px #fff;
+ }
+ 
+ h1{
+    padding: 1%;
+    margin: 1% 1%;
+ }
+ .work-list-item {
+    list-style-type: none;
+    padding: 1%;
+    margin: 1% 1%;
+ }
+ 
+ 
+ .work-list {
+   text-align: center;
+ }
+  
+ 
